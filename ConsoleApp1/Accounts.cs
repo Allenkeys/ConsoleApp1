@@ -22,6 +22,8 @@ namespace ConsoleApp1
 
             List<string> Password = new List<string>();
 
+            Users.Add(username);
+
             Password.Add(password);
 
             void Login()
