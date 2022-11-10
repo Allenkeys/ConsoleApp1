@@ -19,7 +19,8 @@ namespace ConsoleApp1
             //Hash.hashInput();
             //LoopControl.controlState();
             //Accounts.authentication();
-            Library.management();
+            //Library.management();
+            UpperCase.getUpperCase();
         }
     }
 }
